@@ -4,7 +4,7 @@ The codes included in this repository were utilized for the research presented a
 In our work, we introduced a novel masking approach tailored for the Encoder-Decoder architecture, specifically during the pretraining phase on Math Word Problem (MWP) datasets. The application of this approach demonstrated improved outcomes, as evidenced by enhanced evaluations on two distinct dataset types: Chain of Thought (CoT)-based answer datasets and equation generation answer datasets.
 
 ## Experiment Outline:
-
+![Local Image](Imgs/experiment_parts.jpg)
 ## Proposed Masking Approach:
 - Concatenate the input Question, context, and answer segments
 - Identify all the indices of the numbers in the answer segment
@@ -12,4 +12,5 @@ In our work, we introduced a novel masking approach tailored for the Encoder-Dec
 - Initially, we chose span length 2, and in other experiments, we have varied masking % and span length to observe the impact.
 
 ## An example of the masking:
-![Uploading masking_steps (1).jpg…]()
+![Local Image](Imgs/masking_steps.jpg)
+
