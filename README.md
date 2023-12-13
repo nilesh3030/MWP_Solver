@@ -14,3 +14,8 @@ In our work, we introduced a novel masking approach tailored for the Encoder-Dec
 ## An example of the masking:
 ![Local Image](Imgs/masking_steps.jpg)
 
+## Evaluation Results:
+![Local Image](Imgs/pass_results.jpg)
+
+
+
