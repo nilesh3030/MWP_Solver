@@ -15,7 +15,7 @@ In our work, we introduced a novel masking approach tailored for the Encoder-Dec
 ![Local Image](Imgs/masking_steps.jpg)
 
 ## Evaluation Results:
-![Local Image](Imgs/pass_results.jpg)
+![Local Image](Imgs/pass_results.JPG)
 
 
 
